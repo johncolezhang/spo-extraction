@@ -126,5 +126,5 @@ venv-doc
 model/
 *.json
 *.txt
-.log/
+log/
 .model/
